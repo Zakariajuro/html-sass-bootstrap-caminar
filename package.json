@@ -1,0 +1,25 @@
+{
+  "name": "caminar_zak",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zakariajuro/html-sass-bootstrap-caminar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zakariajuro/html-sass-bootstrap-caminar/issues"
+  },
+  "homepage": "https://github.com/Zakariajuro/html-sass-bootstrap-caminar#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.1",
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1"
+  }
+}
